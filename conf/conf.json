@@ -1,0 +1,18 @@
+{
+  "io-package-name": "raspi-io",
+  "io-config": {},
+  "backpack-serial-port": "/dev/tty0",
+  "tests": {
+    "GPIO": {
+      "GPIO17": {
+        "normalizedPin": 0,
+        "analogChannel": 127
+      },
+      "GPIO18": {
+        "normalizedPin": 1,
+        "analogChannel": 127
+      }
+    },
+    "PWM": {}
+  }
+}
