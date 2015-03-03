@@ -1,8 +1,7 @@
 {
-  "name": "test-io-server",
+  "name": "test-io-runner",
   "version": "1.0.0",
-  "description": "Server code for test-io",
-  "main": "index.js",
+  "description": "Unit test runner for test-io",
   "author": "Bryan Hughes <bryan@theoreticalideations.com>",
   "license": "MIT",
   "dependencies": {

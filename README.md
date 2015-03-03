@@ -1,7 +1,7 @@
-Test IO
-=======
+Test IO Runner
+==============
 
-Unit testing framework for Johnny-Five IO plugins. Docs coming soon!
+Part of the unit testing framework for Johnny-Five IO plugins. This piece runs unit tests on the device or laptop connected to the device in question. Docs coming soon!
 
 License
 =======
