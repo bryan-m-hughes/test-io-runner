@@ -27,7 +27,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 var fs = require('fs');
 var path = require('path');
 var program = require('commander');
-var async = require('async');
 
 var DEFAULT_CONFIG_PATH = path.normalize(path.join(__dirname, '..', 'conf', 'conf.json'));
 
